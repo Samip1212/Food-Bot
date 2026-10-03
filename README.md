@@ -1,3 +1,4 @@
+<img width="922" height="2048" alt="bot" src="https://github.com/user-attachments/assets/87fd750d-7b7d-412d-83d1-418f2020f31f" />
 # Food Bot
 
 A wireless, 2-board robot controlled by a joystick. A transmitter board reads a joystick and sends throttle/steering commands wirelessly (ESP-NOW) to a receiver board, which drives 4 DC motors through an L298N motor driver.

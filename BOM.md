@@ -6,14 +6,17 @@
 > [!NOTE]
 > This parts list is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-
+########################################################################################################################
 This are the item I need for upgrade The original item used are different 
-
+########################################################################################################################
 
 
 | Week | Tier | Parts funding |
 | --- | --- | --- |
 | Warm-up | Tier 2 | $65.00 |
+########################################################################################################################
+This are the item I need for upgrade The original item used are different 
+########################################################################################################################
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |

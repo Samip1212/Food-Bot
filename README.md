@@ -32,7 +32,7 @@ A wireless, 2-board robot controlled by a joystick. A transmitter board reads a 
 
 ### Transmitter  Joystick
 
-https://raw.githubusercontent.com/Samip1212/Food-Bot/39d70988d52e350ee390f82b99d74aa89c5fa2e0/Screenshot%202026-11-24%20at%2016.42.09.png
+
 | Joystick pin | NodeMCU pin |
 |---|---|
 | X pot VCC | D1 |
@@ -47,7 +47,7 @@ All diode **cathodes** (silver band side) join at one common node:
 - Common node 10k resistor  **GND**
 
 ### Receiver L298N Motor Driver
-
+![image alt](https://raw.githubusercontent.com/Samip1212/Food-Bot/39d70988d52e350ee390f82b99d74aa89c5fa2e0/Screenshot%202026-11-24%20at%2016.42.09.png)
 | L298N pin | NodeMCU pin |
 |---|---|
 | IN1 | D1 |

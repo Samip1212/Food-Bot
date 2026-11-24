@@ -13,6 +13,9 @@ A wireless, 2-board robot controlled by a joystick. A transmitter board reads a 
 | 6  | nRF24L01 module      |  2  |     $2.00 |      $4.00 |
 |    | **Total**            |     |           | **$65.00** |
 
+#3d model
+![image alt](https://raw.githubusercontent.com/Samip1212/Food-Bot/3209c9a235f1bb5bb52795efacef3b9767cfe5fa/Screenshot%202026-11-24%20at%2017.11.11.png)
+
 ## Hardware
 
 - 2x NodeMCU v3 (ESP8266)

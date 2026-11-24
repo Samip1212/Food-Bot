@@ -32,7 +32,7 @@ A wireless, 2-board robot controlled by a joystick. A transmitter board reads a 
 
 ### Transmitter  Joystick
 
-
+![image alt](https://github.com/Samip1212/Food-Bot/blob/main/Screenshot%202026-11-24%20at%2016.42.55.png?raw=true)
 | Joystick pin | NodeMCU pin |
 |---|---|
 | X pot VCC | D1 |

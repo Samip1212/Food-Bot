@@ -1,0 +1,10 @@
+Part,What it's for,Qty,Unit Price (USD),Total (USD),Vendor,Link
+ESP32-S3,For processing sensor data and controlling motors,1,13.00,13.00,Daraz,https://s.daraz.com.np/s.ZNYpa
+BTS7960,To control motors,2,4.50,9.00,Daraz,https://s.daraz.com.np/s.ZNYJ1
+Gear motor,For movement of robot,4,6.50,26.00,Daraz,https://s.daraz.com.np/s.ZNYuU
+ESP32,For controlling robot from remote,1,6.50,6.50,Daraz,https://s.daraz.com.np/s.ZNYFH
+12V battery,Used to power robot,1,6.50,6.50,Daraz,https://s.daraz.com.np/s.ZNYES
+nRF24L01,For long distance communication between transmitter and receiver,2,2.00,4.00,Daraz,https://s.daraz.com.np/s.ZNYCJ
+Parts subtotal,,,,65.00,,
+Tax & shipping,,,,0.00,,
+Total,,,,65.00,,

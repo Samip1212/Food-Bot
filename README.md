@@ -4,6 +4,16 @@
 A wireless, 2-board robot controlled by a joystick. A transmitter board reads a joystick and sends throttle/steering commands wirelessly (ESP-NOW) to a receiver board, which drives 4 DC motors through an L298N motor driver.
 
 
+| #  | Material             | Qty | Unit Cost | Total Cost |
+|:--:|:---------------------|:---:|----------:|-----------:|
+| 1  | ESP32-S3             |  1  |    $13.00 |     $13.00 |
+| 2  | BTS7960 motor driver |  2  |     $4.50 |      $9.00 |
+| 3  | Gear motor           |  4  |     $6.50 |     $26.00 |
+| 4  | ESP32                |  1  |     $6.50 |      $6.50 |
+| 5  | 12V battery          |  1  |     $6.50 |      $6.50 |
+| 6  | nRF24L01 module      |  2  |     $2.00 |      $4.00 |
+|    | **Total**            |     |           | **$65.00** |
+
 ## Hardware
 
 - 2x NodeMCU v3 (ESP8266)
